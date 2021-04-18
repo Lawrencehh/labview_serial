@@ -1,0 +1,2 @@
+# labview_serial
+用labview实现从一个或者两个串口中读取数据并实时传送给第三个串口
